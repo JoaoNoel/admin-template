@@ -1,3 +1,5 @@
-export default class AvatarUsuario {
-
+export default function AvatarUsuario() {
+    return (
+        <div></div >
+    )
 }
